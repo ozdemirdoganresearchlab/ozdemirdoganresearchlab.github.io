@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "OzdemirDoganResearchLab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "OzdemirDoganResearchLab @ METU"
 sitemap: false
 permalink: /
 ---
